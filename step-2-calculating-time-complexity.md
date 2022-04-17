@@ -31,7 +31,7 @@ function logAtMost10(n) {
 
 ```
 
-Time Complexity: O(n)
+Time Complexity: O(1)
 
 ```
 
